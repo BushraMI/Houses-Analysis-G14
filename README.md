@@ -6,7 +6,7 @@
 
 
 ## Business Understanding
-<img src="image1.jpeg" align="left" width="350px" height="200px" alt="Idea" />
+<img src="image1.jpeg" align="left" width="350px" height="220px" alt="Idea" />
 
 ### Stakeholder Audience
 Fanaka Group, a Real Estate Investment Group is the identified stakeholders for this prject. This group deals with buying, selling, renovating and finanacing properties.
