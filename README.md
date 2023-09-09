@@ -1,6 +1,6 @@
 # Phase 2 Project
 
-![awesome](https://giphy.com/gifs/Explainly-art-animation-office-e8ik35i8LaO3BqRwY6)
+![awesome](https://media.giphy.com/media/e8ik35i8LaO3BqRwY6/giphy.gif)
 
 ## Project Overview
 
