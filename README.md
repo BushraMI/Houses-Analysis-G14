@@ -40,7 +40,7 @@ For this project, we will use multiple linear regression, to help us understand 
 
 <img src="image.jpeg" align="left" width="320px" height="280px" alt="Method" />
 
-#### Technologies Used
+### Technologies Used
 Based on what was learned, we were able to carry out the following:
 1. Data Understanding
 2. Data Cleaning and Preparation
