@@ -1,6 +1,6 @@
 # Phase 2 Project
 
-![awesome](https://media.giphy.com/media/e8ik35i8LaO3BqRwY6/giphy.gif)
+![Real_Estate](https://media.giphy.com/media/e8ik35i8LaO3BqRwY6/giphy.gif)
 
 ## Project Overview
 
@@ -38,7 +38,7 @@ For this project, we will require use of multiple linear regression modeling to 
 
 For this project, we will use multiple linear regression, to help us understand and determine the relationship between multiple independent variables (house features) and the dependent variable, which in this case is House Sale Prices.
 
-![awesome](https://media.giphy.com/media/Yx93jeegFfb5MBVYBb/giphy.gif){: style="align: left"}
+<img src="Houses-Analysis-G14\image.jpeg" align="left" alt="Method" />
 
 #### Technologies Used
 Based on what was learned, we were able to carry out the following:
