@@ -25,9 +25,11 @@ The data folder includes the following files:
 
 
 ## Modelling
+This project, you will require use of multiple linear regression modeling to analyze house sales in a northwestern county. Multiple linear regression is a statisitical technique used to determine the relationship among several random variables. 
+
+For this project, we will use multiple linear regression, to help us understand and determine the relationship between multiple independent variables and the dependent variable, which in this case is House Sale Prices.
 
 ## Regression Results
 
 ## Conclusion
-
 Based on the the modelling techniques above, we are able to come up with the following insights:
