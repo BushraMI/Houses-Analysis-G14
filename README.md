@@ -38,7 +38,7 @@ For this project, we will require use of multiple linear regression modeling to 
 
 For this project, we will use multiple linear regression, to help us understand and determine the relationship between multiple independent variables (house features) and the dependent variable, which in this case is House Sale Prices.
 
-<img src="image.jpeg" align="left" width="320px" height="300px" alt="Method" />
+<img src="image.jpeg" align="left" width="320px" height="280px" alt="Method" />
 
 #### Technologies Used
 Based on what was learned, we were able to carry out the following:
