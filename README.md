@@ -15,8 +15,6 @@ The group is seeking for ways it can provide better housing facilities for their
 They have asked us to provide insights and recommendations into the real estate market in terms of which houses and renovation features are likely to give them a significant profit on their investment. 
 
 
-<img src="image2.png" align="left" width="350px" height="250px" alt="Method" />
-
 ### Business Objectives
 The aim of this project is to analyze the provided dataset on King Country and eventually answer to the Stakeholders questions.
 With this in mind, the objectives of this project include:
@@ -29,7 +27,7 @@ Identify the key factors (features of attraction) affect house sales
 
 ## Data Understanding
 For this project, we will use the King County House Sales dataset under the file path `data\...` This folder contains historical data of house sales captured in a northwestern country, which we will modify for the purpose of our analysis.
-
+<img src="image2.png" align="left" width="150px" height="150px" alt="Method" />
 The data folder includes the following files:
 1. `column_names.md` - provides a description of the column names
 2. `kc_house_data.csv` - provides list of attributes for the houses and their prices
