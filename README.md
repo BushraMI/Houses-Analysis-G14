@@ -56,7 +56,7 @@ Based on what was learned, we were able to carry out the following:
 From the data modelling done in the previous step, below represent the regression analysis results of the King County DataSet.
 
 ## Conclusion
-<video src="https://media.giphy.com/media/yJ9rvMTqBfxAeEuFzX/giphy.gif" align="left"> </video>
+<img src="https://media.giphy.com/media/yJ9rvMTqBfxAeEuFzX/giphy.gif" align="left"/>
 Based on the the modelling techniques above, we are able to come up with the following insights:
 
 
