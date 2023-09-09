@@ -6,6 +6,8 @@
 
 
 ## Business Understanding
+<img src="image1.jpeg" align="left" width="350px" height="250px" alt="Idea" />
+
 ### Stakeholder Audience
 Fanaka Group, a Real Estate Investment Group is the identified stakeholders for this prject. This group deals with buying, selling, renovating and finanacing properties.
 The group is seeking for ways it can provide better housing facilities for their clients. They are seeking to improve their efficiency ad effectiveness in delivering their facilities to their clients.
@@ -13,6 +15,7 @@ The group is seeking for ways it can provide better housing facilities for their
 They have asked us to provide insights and recommendations into the real estate market in terms of which houses and renovation features are likely to give them a significant profit on their investment. 
 
 
+<img src="image2.png" align="left" width="350px" height="250px" alt="Method" />
 
 ### Business Objectives
 The aim of this project is to analyze the provided dataset on King Country and eventually answer to the Stakeholders questions.
@@ -38,7 +41,7 @@ For this project, we will require use of multiple linear regression modeling to 
 
 For this project, we will use multiple linear regression, to help us understand and determine the relationship between multiple independent variables (house features) and the dependent variable, which in this case is House Sale Prices.
 
-<img src="image.jpeg" align="left" width="350px" height="250px" alt="Method" />
+<img src="image.jpeg" align="right" width="350px" height="250px" alt="Method" />
 
 ### Technologies Used
 Based on what was learned, we were able to carry out the following:
