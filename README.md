@@ -4,10 +4,25 @@
 
 ## Project Overview
 
+
 ## Business Understanding
 #### Stakeholder Audience
+Fanaka, is a Real Estate Investment Group is the identified stakeholders for this prject. This group deals with buying, selling, renovating and finanacing properties. They have asked us to provide insights and recommendations into the real estate market in terms of which houses and renovation features are likely to give them a significant profit on their investment. 
+
+#### Business Objectives
+The objectives of this project include:
+1. To model and understand the relationship between house sales prices and multiple independent variables.
+2. Valuation of the property: Identify the key factors that affect house prices in the northwestern county.
+3. Provide insights and recommendations to the stakeholders in regards to their investing
+4. Customer satisfaction: Identify the key factors affect house sales
 
 ## Data Understanding
+For this project, we will use the King County House Sales dataset under the file path `data\...` This folder contains historical data of house sales captured in a northwestern country, which we will modify for the purpose of our analysis.
+
+The data folder includes the following files:
+1. `column_names.md` - provides a description of the column names
+2. `kc_house_data.csv` - provides list of attributes for the houses and their prices
+
 
 ## Modelling
 
@@ -15,4 +30,4 @@
 
 ## Conclusion
 
-This is your first modeling project! Take what you have learned in Phase 2 to create a project with a more sophisticated analysis than you completed in Phase 1. You will build on these skills as we move into the predictive machine learning mindset in Phase 3. You've got this!
+Based on the the modelling techniques above, we are able to come up with the following insights:
