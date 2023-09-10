@@ -67,8 +67,19 @@ For the dataset represented:
 #### 1. Univariate Analysis
 We conducted univariate analysis to understand the distribution and characteristics of individual variables.
 
+*Results
+For the univariate analysis of the dataset, the categorical data put into consideration include the 3 listed:
+ Bedrooms
+Bathroom
+sqft_living.
+We are able to conclude that from the count from this, the major features that attract customers to but house are like the above listed
+
 #### 2. Multivariate regression analysis
-We conducted univariate analysis to understand the distribution and characteristics of individual variables.
+We conducted multivariate analysis to understand the relationship between the house features and the price.
+
+*Results
+The size of the living area, indicated by sqft_living, has the strongest positive impact on property prices.
+The number of bathrooms also significantly influences prices. Bedrooms, while still positively correlated, have a comparatively weaker impact. Other attributes like floors, sqft_living15, and yr_built show moderate correlations with various features.
 
 <img src="image.jpeg" align="right" width="350px" height="250px" alt="Method" />
 
