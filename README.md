@@ -65,7 +65,10 @@ For this project, we will use multiple linear regression, to help us understand 
 
 For the dataset represented: 
 #### 1. Univariate Analysis
+We conducted univariate analysis to understand the distribution and characteristics of individual variables.
+
 #### 2. Multivariate regression analysis
+We conducted univariate analysis to understand the distribution and characteristics of individual variables.
 
 <img src="image.jpeg" align="right" width="350px" height="250px" alt="Method" />
 
