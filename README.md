@@ -14,7 +14,7 @@ According to Redfin article: `https://www.redfin.com/us-housing-market`, it give
 
 For this project,we are given the King County House Sales as our base dataset.We are required to use multiple linear regression modeling to analyze house sales in a northwestern county. 
 
-We will be required to Import, Clean, Visualize and Model the data provided. This will enable us to answer the objectives set and provide Recommendations and insights to our audience stakeholders.
+We will be required to Import/Load, Clean, Visualize and Model the data provided. This will enable us to answer the objectives set and provide Recommendations and insights to our audience stakeholders.
 
 ## Business Understanding
 <img src="image1.jpeg" align="left" width="350px" height="220px" alt="Idea" />
