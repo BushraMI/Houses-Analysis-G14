@@ -57,7 +57,8 @@ From the data modelling done in the previous step, below represent the regressio
 
 ## Conclusion
 <img src="https://media.giphy.com/media/L5ALYguzXR5rW/giphy-downsized-large.gif" align="left"/>
-Based on the the modelling techniques above, we are able to come up with the following insights:
+
+#### Based on the the modelling techniques above, we are able to come up with the following insights:
 
 
-Based on the results above, we concluded that features that were more likely to influence the price of the house are: 
+#### Based on the results above, we concluded that features that were more likely to influence the price of the house are: 
