@@ -46,6 +46,11 @@ The data folder includes the following files:
 2. `kc_house_data.csv` - provides list of attributes for the houses and their prices
 
 
+### Visualization
+We are able to see how the various features affect pricing of the houses sold
+
+<img src="https://public.tableau.com/views/HousingSales_16943410889020/Sqft_livingVsPrice?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link" alt="sqtlivingVsPrice" />
+
 
 ## Modelling
 For this project, we will require use of multiple linear regression modeling to analyze house sales in a northwestern county. Multiple linear regression is a statisitical technique used to determine the relationship among several random variables. 
