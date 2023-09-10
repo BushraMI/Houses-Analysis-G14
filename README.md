@@ -20,8 +20,8 @@ We will be required to Import/Load, Clean, Visualize and Model the data provided
 <img src="image1.jpeg" align="left" width="350px" height="220px" alt="Idea" />
 
 ### Stakeholder Audience
-Fanaka Group, a Real Estate Investment Group is the identified stakeholders for this prject. This group deals with buying, selling, renovating and finanacing properties.
-The group is seeking for ways it can provide better housing facilities for their clients. They are seeking to improve their efficiency ad effectiveness in delivering their facilities to their clients.
+Fanaka Group, a Real Estate Investment Group is the identified stakeholders for this project. This group deals with buying, selling, renovating and financing properties.
+The group is seeking for ways it can provide better housing facilities for their clients. They are seeking to improve their efficiency and effectiveness in delivering their facilities to their clients.
 
 They have asked us to provide insights and recommendations into the real estate market in terms of which houses and renovation features are likely to give them a significant profit on their investment. 
 
