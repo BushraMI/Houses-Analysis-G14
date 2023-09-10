@@ -4,7 +4,17 @@
 <img src="https://media.giphy.com/media/e8ik35i8LaO3BqRwY6/giphy.gif" width="700px" height="280px" alt="Header" />
 
 ## Project Overview
+Real estate in the USA is a diverse and dynamic market that varies significantly by region. Some key facts and trends in the US real estate market include:
+1. Housing Market: The US housing market saw a significant increase in demand, driven by cheap mortgage rates, remote work habits, and shifting lifestyle tastes as a result of the COVID-19 pandemic. As a result, Home values rose as a result in several locations.
+2. Home Prices: Home prices saw significant appreciation in various metropolitan areas, making housing affordability a concern for many potential buyers. Cities like San Francisco, Seattle, and Austin saw substantial price increases.
+3. Urban Migration: The pandemic accelerated the trend of people moving away from densely populated urban areas to suburban and rural locations. 
+4. Real Estate Technology: The use of technology in real estate, such as virtual property tours, digital mortgage applications, and blockchain-based property records, continued to evolve.
 
+According to Redfin article: `https://www.redfin.com/us-housing-market`, it gives an overview of the United States Housing Market, Demand, Supply.
+
+For this project,we are given the King County House Sales as our base dataset.We are required to use multiple linear regression modeling to analyze house sales in a northwestern county. 
+
+We will be required to Import, Clean, Visualize and Model the data provided. This will enable us to answer the objectives set and provide Recommendations and insights to our audience stakeholders.
 
 ## Business Understanding
 <img src="image1.jpeg" align="left" width="350px" height="220px" alt="Idea" />
