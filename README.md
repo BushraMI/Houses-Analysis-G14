@@ -47,9 +47,13 @@ The data folder includes the following files:
 
 
 ### Visualization
-We are able to see how the various features affect pricing of the houses sold
+From the King and County Dataset, we are able to see that: 
+1. The sqt_living affects the house saling price. (The larger the sqt_living size the more the house is sold)
 
 <div class='tableauPlaceholder' id='viz1694341669294' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ho&#47;HousingSales_16943410889020&#47;Sqft_livingVsPrice&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='HousingSales_16943410889020&#47;Sqft_livingVsPrice' /><param name='tabs' value='yes' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ho&#47;HousingSales_16943410889020&#47;Sqft_livingVsPrice&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>            
+
+2. The different features (bathrooms, bedrooms) also affect the house selling price
+<div class='tableauPlaceholder' id='viz1694341984205' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ho&#47;HousingSales_16943410889020&#47;FeaturesVsPrice&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='HousingSales_16943410889020&#47;FeaturesVsPrice' /><param name='tabs' value='yes' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ho&#47;HousingSales_16943410889020&#47;FeaturesVsPrice&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>               
 
 ## Modelling
 For this project, we will require use of multiple linear regression modeling to analyze house sales in a northwestern county. Multiple linear regression is a statisitical technique used to determine the relationship among several random variables. 
