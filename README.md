@@ -82,6 +82,8 @@ Based on what was learned, we were able to carry out the following:
 ## Regression Results
 From the data modelling done in the previous step, below represent the regression analysis results of the King County DataSet.
 
+Here we will run a baseline linear regression model using various features as predictors, including the number of bedrooms, bathrooms, square footage of living space, square footage of the lot, number of floors, waterfront status, house condition, and grade.
+
 ## Conclusion
 <img src="https://media.giphy.com/media/UqqVRaP8y4uo1GNxbN/giphy.gif" width="720px" height="250px">
 
