@@ -1,7 +1,7 @@
 # Phase 2 Project
 
 <!-- ![Real_Estate](https://media.giphy.com/media/e8ik35i8LaO3BqRwY6/giphy.gif) -->
-<img src="https://media.giphy.com/media/e8ik35i8LaO3BqRwY6/giphy.gif" width="700px" height="220px" alt="Header" />
+<img src="https://media.giphy.com/media/e8ik35i8LaO3BqRwY6/giphy.gif" width="720px" height="280px" alt="Header" />
 
 ## Project Overview
 
