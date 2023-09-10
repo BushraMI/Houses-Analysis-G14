@@ -10,7 +10,7 @@ Real estate in the USA is a diverse and dynamic market that varies significantly
 3. Urban Migration: The pandemic accelerated the trend of people moving away from densely populated urban areas to suburban and rural locations. 
 4. Real Estate Technology: The use of technology in real estate, such as virtual property tours, digital mortgage applications, and blockchain-based property records, continued to evolve.
 
-According to Redfin article: `https://www.redfin.com/us-housing-market`, it gives an overview of the United States Housing Market, Demand, Supply.
+According to Redfin article: `https://www.redfin.com/us-housing-market`, we are able to see an overview of the United States Housing Market, Demand, Supply.
 
 For this project,we are given the King County House Sales as our base dataset.We are required to use multiple linear regression modeling to analyze house sales in a northwestern county. 
 
