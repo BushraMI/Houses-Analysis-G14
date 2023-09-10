@@ -47,6 +47,9 @@ The data folder includes the following files:
 
 
 ### Visualization
+
+<div class='tableauPlaceholder' id='viz1694383919591' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ho&#47;HousingSales_16943410889020&#47;ZIPCODE&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='path' value='views&#47;HousingSales_16943410889020&#47;ZIPCODE?:language=en-US&amp;:embed=true&amp;publish=yes' /> <param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ho&#47;HousingSales_16943410889020&#47;ZIPCODE&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div> 
+
 From the King and County Dataset, we are able to see that: 
 1. The sqt_living affects the house saling price. (The larger the sqt_living size the more the house is sold)
 
