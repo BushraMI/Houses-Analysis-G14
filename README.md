@@ -51,7 +51,7 @@ The data folder includes the following files:
 <div class='tableauPlaceholder' id='viz1694383919591' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ho&#47;HousingSales_16943410889020&#47;ZIPCODE&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='path' value='views&#47;HousingSales_16943410889020&#47;ZIPCODE?:language=en-US&amp;:embed=true&amp;publish=yes' /> <param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ho&#47;HousingSales_16943410889020&#47;ZIPCODE&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div> 
 
 From the King and County Dataset, we are able to see that: 
-1. The sqt_living affects the house saling price. (The larger the sqt_living size the more the house is sold)
+1. The sqt_living affects the house selling price. (The larger the sqt_living size the more the house is sold)
 
 <div class='tableauPlaceholder' id='viz1694341669294' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ho&#47;HousingSales_16943410889020&#47;Sqft_livingVsPrice&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='HousingSales_16943410889020&#47;Sqft_livingVsPrice' /><param name='tabs' value='yes' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ho&#47;HousingSales_16943410889020&#47;Sqft_livingVsPrice&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>            
 
@@ -59,7 +59,7 @@ From the King and County Dataset, we are able to see that:
 <div class='tableauPlaceholder' id='viz1694341984205' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ho&#47;HousingSales_16943410889020&#47;FeaturesVsPrice&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='HousingSales_16943410889020&#47;FeaturesVsPrice' /><param name='tabs' value='yes' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ho&#47;HousingSales_16943410889020&#47;FeaturesVsPrice&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>        
 
 ## Modelling
-For this project, we will require use of multiple linear regression modeling to analyze house sales in a northwestern county. Multiple linear regression is a statisitical technique used to determine the relationship among several random variables. 
+For this project, we will require the use of multiple linear regression modeling to analyze house sales in a northwestern county. Multiple linear regression is a statistical technique used to determine the relationship among several random variables. 
 
 For this project, we will use multiple linear regression, to help us understand and determine the relationship between multiple independent variables (house features) and the dependent variable, which in this case is House Sale Prices.
 
@@ -72,10 +72,10 @@ For the univariate analysis of the dataset, the categorical data put into consid
  Bedrooms
 Bathroom
 sqft_living.
-We are able to conclude that from the count from this, the major features that attract customers to but house are like the above listed
+We are able to conclude that from the count, the major features that attract customers to buy a house are like the above-listed
 
 #### 2. Multivariate regression analysis
-We conducted multivariate analysis to understand the relationship between the house features and the price.
+We conducted a multivariate analysis to understand the relationship between the house features and the price.
 
 *Results
 The size of the living area, indicated by sqft_living, has the strongest positive impact on property prices.
@@ -94,17 +94,34 @@ Based on what was learned, we were able to carry out the following:
 
 
 ## Regression Results
-From the data modelling done in the previous step, below represent the regression analysis results of the King County DataSet.
+From the data modeling done in the previous step, below represent the regression analysis results of the King County DataSet.
 
 Here we will run a baseline linear regression model using various features as predictors, including the number of bedrooms, bathrooms, square footage of living space, square footage of the lot, number of floors, waterfront status, house condition, and grade.
 
 ## Conclusion
 <img src="https://media.giphy.com/media/UqqVRaP8y4uo1GNxbN/giphy.gif" width="720px" height="250px">
+Negative Factors: The number of bedrooms (bedrooms) and the year built (yr_built) have negative coefficients. This implies that an increase in the number of bedrooms or an older year of construction may lead to lower house prices.
+
+Less Impactful Factors: The square footage of the lot (sqft_lot), the number of floors (floors), and the condition of the property (condition) also play a role in house prices but to a lesser extent.
+
+Customer satisfaction, knowing the above features have an influence on the buyer's decision, the stakeholder can advise on what renovations are most marketable.
 
 ### Recommendations
-#### Based on the the modelling techniques above, we are able to come up with the following insights:
+#### Based on the modeling techniques above, we are able to come up with the following insights:
+Bedrooms: One of the predictor variables. Its coefficient is -0.0278, which indicates that for each unit increase in the number of bedrooms, the dependent variable (price) decreases by approximately 0.0278 units.
 
+Bathrooms: This is another predictor variable. Its coefficient is 0.0890, indicating that for each additional bathroom, the dependent variable(price) increases by approximately 0.0890 units.
+sqft_living: This is a predictor variable representing the square footage of living space. Its coefficient is 0.0002, suggesting that for each additional square foot of living space, the dependent variable(price) increases by approximately 0.0002 units.
 
-#### Based on the results above, we concluded that features that were more likely to influence the price of the house are: 
+sqft_lot: This is another predictor variable representing the square footage of the lot. Its coefficient is very small and negative (-2.002e-08), but it's not statistically significant since its p-value is 0.787, indicating that it may not be significant in terms of predicting price.
 
-### Summary
+Floors: The coefficient for the "floors" variable is 0.0818. This suggests that holding all other variables constant, for each additional floor in a house, the predicted value of the dependent variable (e.g., house price) increases by approximately 0.0818 units.
+
+Waterfront: The coefficient for the "waterfront" variable is 0.4698. Since "waterfront" is likely a binary variable (0 for no waterfront and 1 for waterfront), this coefficient indicates that having a waterfront property increases the predicted value of the dependent variable(price) by 0.4698 units compared to non-waterfront properties. 
+
+Condition: The coefficient for the "condition" variable is 0.0405.
+This suggests that holding all other variables constant, for each unit increase in the condition rating of a property, the predicted value of the dependent variable(price) increases by approximately 0.0405 units.
+
+Grade: The coefficient for the "grade" variable is 0.2242. This indicates that holding all other variables constant, for each unit increase in the property grade rating, the predicted value of the dependent variable(price) increases by approximately 0.2242 units.
+
+#### Based on the results above, we concluded that All the independent variables aside from sqft_lot have a p-value of 0.00 which indicates their significance in predicting price.
