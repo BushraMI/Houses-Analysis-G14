@@ -125,3 +125,18 @@ This suggests that holding all other variables constant, for each unit increase 
 Grade: The coefficient for the "grade" variable is 0.2242. This indicates that holding all other variables constant, for each unit increase in the property grade rating, the predicted value of the dependent variable(price) increases by approximately 0.2242 units.
 
 #### Based on the results above, we concluded that All the independent variables aside from sqft_lot have a p-value of 0.00 which indicates their significance in predicting price.
+
+*Repository Structure*
+
+
+├── data
+    ├──column_names.md
+    ├──kc_house_data.csv
+    ├──kc_house_data.xlsx
+├──Project_presentation.pdf
+├── README                         
+├── image.jpeg
+├── image1.jpeg
+├──image2.png
+├── student.ipynb
+        
