@@ -130,23 +130,14 @@ Grade: The coefficient for the "grade" variable is 0.2242. This indicates that h
 
 
 ├── data
-
     ├──column_names.md
-    
     ├──kc_house_data.csv
-    
     ├──kc_house_data.xlsx
-    
 ├──Project_presentation.pdf
-
 ├── README       
-
 ├── image.jpeg
-
 ├── image1.jpeg
-
 ├──image2.png
-
 ├── student.ipynb
 
         
